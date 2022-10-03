@@ -1,4 +1,4 @@
-def add(a,b)
+def yeet(a,b)
     return a + b
 
 print("nothing")
